@@ -22,15 +22,17 @@ Escrow.com offers several escrow solutions, including:
 - Freelance and Contract Work: Supports milestone-based payments for freelancers and contractors, releasing funds upon completion of predefined project stages.
 # Pricing Model:
 Escrow.com charges a percentage of the transaction value based on the service type and payment method. 
-💰Standard Transaction Fees
+Standard Transaction Fees
   - Up to $5,000 – 3.25% fee
   - $5,000 - $25,000 – 0.89% fee
   - $25,000 - $100,000 – 0.79% fee
   - Above $100,000 – 0.69% feeBased on transaction value; fees range from 0.89% to 3.25%.
-💳 Payment Processing Fees
+    
+Payment Processing Fees
   - Credit Card & PayPal: 3.05% processing fee
   - Wire Transfers: No additional processing fees
-📤 Disbursement Fees
+
+Disbursement Fees
   - Wire Transfer (U.S.) – $10 per transfer
   - Wire Transfer (International) – $20 per transfer
   - ACH Bank Transfer (U.S.) – Free
