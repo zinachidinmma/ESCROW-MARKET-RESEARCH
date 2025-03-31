@@ -22,6 +22,7 @@ Escrow.com offers several escrow solutions, including:
 - Freelance and Contract Work: Supports milestone-based payments for freelancers and contractors, releasing funds upon completion of predefined project stages.
 # Pricing Model:
 Escrow.com charges a percentage of the transaction value based on the service type and payment method. 
+
 Standard Transaction Fees
   - Up to $5,000 – 3.25% fee
   - $5,000 - $25,000 – 0.89% fee
